@@ -16,7 +16,6 @@ To predict the total runs scored by cricket players using batting-related statis
 
 ## Files Included
 - `cricket_performance_analysis.R`: Full source code
-- `Cricket_Performance_Analysis_Report.docx`: Full written report
 - `Cricket_Performance_Analysis_Presentation.pptx`: Project presentation slides
 
 Contact: [Gkranthi07](mailto:gkranthikumar956@gmail.com)
